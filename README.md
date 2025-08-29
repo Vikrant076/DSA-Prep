@@ -18,7 +18,7 @@ Consistency > Intensity ⚡
 ---
 
 ## 📅 Goal
-Solve at least **1 DSA problem every day** and keep the streak alive 🔥
+Solve at least **2 DSA problem every day** and keep the streak alive 🔥
 
 ---
 ⭐ If you’re on a similar journey, let’s connect and grow together!
