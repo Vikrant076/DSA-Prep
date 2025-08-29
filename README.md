@@ -13,7 +13,7 @@ Consistency > Intensity ⚡
 ## 🛠️ Tech I’m Using
 - DSA in C++ 
 - GitHub for version control  
-- LeetCode for problem practice  
+- LeetCode & GeeksForGeeks for problem practice  
 
 ---
 
